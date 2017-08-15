@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Practice with Git</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          My first try to branch out git.
         </p>
       </div>
     );
